@@ -1,0 +1,10 @@
+{
+  "name": "changye-skills",
+  "version": "1.0.0",
+  "description": "Changye's Skills Collection - 实用的 Claude Code Skills 集合",
+  "author": "changye01",
+  "repository": "https://github.com/changye01/tech-design-doc",
+  "skills": [
+    "skills/tech-design-doc"
+  ]
+}

@@ -2,7 +2,17 @@
 
 一组实用的 Claude Code Skills 集合。
 
-## 安装全部 Skills
+## 安装
+
+### 方式 1：Plugin Marketplace（推荐）
+
+在 Claude Code 中运行：
+
+```
+/plugin marketplace add changye01/tech-design-doc
+```
+
+### 方式 2：npx
 
 ```bash
 npx skills add changye01/tech-design-doc -y -g
