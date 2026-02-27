@@ -12,6 +12,12 @@
 /plugin marketplace add changye01/tech-design-doc
 ```
 
+安装后启用 skill：
+
+```
+/plugin enable tech-design-doc@changye-skills
+```
+
 ### 方式 2：npx
 
 ```bash
