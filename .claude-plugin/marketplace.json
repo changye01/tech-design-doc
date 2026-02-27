@@ -1,6 +1,6 @@
 {
   "name": "changye-skills",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Changye's Skills Collection - 实用的 Claude Code Skills 集合",
   "owner": {
     "name": "changye01",
@@ -10,10 +10,13 @@
     {
       "name": "tech-design-doc",
       "description": "技术设计文档生成工具，通过引导式提问生成完整的 Markdown 格式设计文档",
-      "version": "1.0.0",
-      "source": "./skills/tech-design-doc",
+      "version": "1.1.0",
+      "source": "./",
       "category": "development",
-      "keywords": ["documentation", "design", "tdd", "技术文档"]
+      "keywords": ["documentation", "design", "tdd", "技术文档"],
+      "skills": [
+        "./skills/tech-design-doc"
+      ]
     }
   ]
 }
