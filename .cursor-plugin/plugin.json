@@ -1,0 +1,15 @@
+{
+  "name": "tech-design-doc",
+  "displayName": "Tech Design Doc",
+  "description": "技术设计文档生成工具，通过引导式提问生成完整的 Markdown 格式设计文档",
+  "version": "1.1.0",
+  "author": {
+    "name": "changye01",
+    "email": ""
+  },
+  "homepage": "https://github.com/changye01/tech-design-doc",
+  "repository": "https://github.com/changye01/tech-design-doc",
+  "license": "MIT",
+  "keywords": ["documentation", "design", "技术文档", "chinese"],
+  "skills": "./skills/"
+}
